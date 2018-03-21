@@ -12,7 +12,7 @@ WebUI.openBrowser(htmlDir)
 'Maximize the window'
 WebUI.maximizeWindow()
 
-'Select all the Options'
+'kjhfkvkhdf'
 WebUI.selectAllOption(findTestObject('DropDown/comboBox_Role'))
 
 'Deselect all the options'
