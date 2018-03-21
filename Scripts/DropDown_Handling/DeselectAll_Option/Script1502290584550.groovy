@@ -6,7 +6,7 @@ import internal.GlobalVariable as GlobalVariable
 'Storing the URL in a variable'
 def htmlDir = RunConfiguration.getProjectDir() + GlobalVariable.MultiSelection_dropDown_Html_Path
 
-'Launch Browser'
+'jd:hzekg'
 WebUI.openBrowser(htmlDir)
 
 'Maximize the window'
